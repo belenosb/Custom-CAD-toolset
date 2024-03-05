@@ -1,0 +1,16 @@
+
+---In 3E001a.dwg---
+-Nothing Was Found-
+
+---In 6E161.dwg---
+*Was Found*
+T-21A
+PNL-24BA-LA
+PNL-23B-PF
+6A103
+6A134
+
+---Never Found---
+PNL-23B Was Never Found
+
+T-70 Was Never Found

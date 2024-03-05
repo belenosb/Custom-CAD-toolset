@@ -1,0 +1,21 @@
+PGE Substation
+└── Main Switch Gear
+    ├── T-1
+    ├── T-2
+    ├── T-3
+    │   └── SB-244
+    │       ├── SB-2SA4
+    │       └── SB-2SB4
+    │           ├── MCC-2!
+    │           ├── MCC-2C
+    │           └── PNL 2W
+    │               └── T2-LQ
+    │                   └── PNL 2
+    └── T-4
+SB-2!
+└── PNL 2PM
+PNL 2PP
+└── T2-LY
+    └── PNL LY2
+T2-LP
+└── hello
